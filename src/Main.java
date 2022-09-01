@@ -4,7 +4,6 @@ public class Main {
         int b = 2;
 
         int c = 9;
-        System.out.println(a+b+c);
 
         // Multiplying these variables
         int mult = a*b*c;
