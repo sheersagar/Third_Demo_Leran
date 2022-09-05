@@ -28,5 +28,10 @@ public class Main {
         int g =99;
         System.out.println(f+g);
 
+
+        int pp = 787;
+
+        System.out.println(g+pp);
+
     }
 }
