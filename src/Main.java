@@ -22,16 +22,5 @@ public class Main {
 
         System.out.println(mult+d+e);
 
-        int f = 7;
-        System.out.println(mult+f);
-
-        int g =99;
-        System.out.println(f+g);
-
-
-        int pp = 787;
-
-        System.out.println(g+pp);
-
     }
 }
