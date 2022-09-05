@@ -18,9 +18,5 @@ public class Main {
 
         System.out.println(mult+d);
 
-        int e = 5;
-
-        System.out.println(mult+d+e);
-
     }
 }
