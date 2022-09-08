@@ -22,5 +22,9 @@ public class Main {
 
         System.out.println(mult+d+e);
 
+        int f = 3;
+
+        System.out.println(f+e);
+
     }
 }
